@@ -2,6 +2,13 @@
 
 Welcome to my personal portfolio website! This project serves as an introduction to who I am, showcasing my coding projects, skills, and providing contact information. It's designed to give you an insight into my background and interests in web development and product management/design.
 
+# Screenshots
+Home
+<img width="1514" alt="image" src="https://github.com/senay-tilahun/personal-portfolio/assets/116685542/086bcaf8-6d80-4dd6-b37e-2b6b5ae14bf4">
+Projects
+
+
+
 # Installation
 
 To set up this project locally, follow these steps:

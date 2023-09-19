@@ -19,6 +19,15 @@ Skills
 # Installation
 
 To set up this project locally, follow these steps:
+Clone this repository to your local machine:
+`git clone https://github.com/yourusername/personal-portfolio.git
+`
+Navigate to the project directory:
+`cd personal-portfolio
+`
+
+Open the index.html file in your web browser to view the portfolio locally.
+
 
 # Usage
 

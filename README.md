@@ -13,14 +13,15 @@ Skills
 <img width="1434" alt="image" src="https://github.com/senay-tilahun/personal-portfolio/assets/116685542/87188212-5215-4709-97d1-52e472f9214f">
 
 
-
+# Demo
+You can visit the live website here: 
 
 
 # Installation
 
 To set up this project locally, follow these steps:
 Clone this repository to your local machine:
-`git clone https://github.com/yourusername/personal-portfolio.git
+`git clone https://github.com/senay-tilahun/personal-portfolio.git
 `
 Navigate to the project directory:
 `cd personal-portfolio

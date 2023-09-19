@@ -5,17 +5,22 @@ Welcome to my personal portfolio website! This project serves as an introduction
 # Table of Contents
 
 `Screenshoots
+
 Installation
+
 Usage
+
 Configuration
+
 License
+
 Credits`
 
 # Installation
 
 To set up this project locally, follow these steps:
 
-# InstallationUsage
+# Usage
 
 Explore the following sections of the portfolio:
 

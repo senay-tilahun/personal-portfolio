@@ -1,0 +1,12 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Welcome to my personal portfolio website! This project serves as an introduction to who I am, showcasing my coding projects, skills, and providing contact information. It's designed to give you an insight into my background and interests in web development and product management/design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

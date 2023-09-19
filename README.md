@@ -2,20 +2,6 @@
 
 Welcome to my personal portfolio website! This project serves as an introduction to who I am, showcasing my coding projects, skills, and providing contact information. It's designed to give you an insight into my background and interests in web development and product management/design.
 
-# Table of Contents
-
-`Screenshoots
-
-Installation
-
-Usage
-
-Configuration
-
-License
-
-Credits`
-
 # Installation
 
 To set up this project locally, follow these steps:
@@ -51,4 +37,5 @@ This project is licensed under the MIT License.
 # Credits
 
 Typing animation provided by Typed.js - https://cdnjs.com/libraries/typed.js/2.0.10
+
 Implementation inspired by YouTube Tutorial - https://www.youtube.com/watch?v=iuxTXPluP8E&t=141s

@@ -1,2 +1,49 @@
 # personal-portfolio
-Senay Tilahun personal portfolio
+
+Welcome to my personal portfolio website! This project serves as an introduction to who I am, showcasing my coding projects, skills, and providing contact information. It's designed to give you an insight into my background and interests in web development and product management/design.
+
+# Table of Contents
+
+`Screenshoots
+Installation
+Usage
+Configuration
+License
+Credits`
+
+# Installation
+
+To set up this project locally, follow these steps:
+
+# InstallationUsage
+
+Explore the following sections of the portfolio:
+
+About Me: Learn a bit about me, my background, and my passion for coding, product management, and design.
+
+My Projects: Check out some of my selected coding projects, with descriptions.
+
+Skills: Discover my coding skills and expertise in product management and design.
+
+Contact Me: Find my contact information and reach out if you'd like to collaborate or get in touch.
+
+# Features
+
+Responsive design for various screen sizes and devices.
+Interactive typing animation to engage visitors.
+Simple navigation for a smooth user experience.
+Clearly presented information about skills and projects.
+Contact information for easy communication.
+
+# Configuration
+
+No specific configuration is required for this project. However, you can customize the content in the HTML files to tailor it to your preferences and update the contact information accordingly.
+
+# License
+
+This project is licensed under the MIT License.
+
+# Credits
+
+Typing animation provided by Typed.js - https://cdnjs.com/libraries/typed.js/2.0.10
+Implementation inspired by YouTube Tutorial - https://www.youtube.com/watch?v=iuxTXPluP8E&t=141s

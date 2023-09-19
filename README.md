@@ -5,7 +5,14 @@ Welcome to my personal portfolio website! This project serves as an introduction
 # Screenshots
 Home
 <img width="1514" alt="image" src="https://github.com/senay-tilahun/personal-portfolio/assets/116685542/086bcaf8-6d80-4dd6-b37e-2b6b5ae14bf4">
+
 Projects
+<img width="1474" alt="image" src="https://github.com/senay-tilahun/personal-portfolio/assets/116685542/c6741217-20c9-4288-a881-58b71342b6eb">
+
+Skills
+<img width="1434" alt="image" src="https://github.com/senay-tilahun/personal-portfolio/assets/116685542/87188212-5215-4709-97d1-52e472f9214f">
+
+
 
 
 

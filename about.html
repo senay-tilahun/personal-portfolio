@@ -1,81 +1,160 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="stylesheet" href="./styles/styles.css">
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="./styles/styles.css" />
     <title>Senay Tilahun Portfolio!</title>
   </head>
   <body>
-    
     <!-- header -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="./index.html">Senay Tilahun</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link active px-lg-3" aria-current="page" href="#"
+              >About</a
+            >
+            <a class="nav-link px-lg-3" href="./#projects">Projects</a>
+            <a class="nav-link px-lg-3" href="./#skills">Skills</a>
+            <a class="nav-link px-lg-3" href="./#contact">Contact</a>
+            <!-- <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- header end -->
+
+    <!-- About Setcion  -->
+    <section class="about py-5">
+      <div class="container py-5">
+        <h1>About Me</h1>
+        <div class="row py-5">
+          <div class="col-lg-4">
+            <div class="card mb-4">
+              <div class="card-body">
+                <h3><small>Experience</small></h3>
+                <p>
+                  3+ years <br />
+                  Product Management <br />
+                  + Development
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card mb-4">
+              <div class="card-body">
+                <h3><small>Education</small></h3>
+                <p>
+                  BA Industrial Design <br />
+                  BS Mechanical Engineering <br />
+                  MSCS (in progress)
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card mb-4">
+              <div class="card-body">
+                <h3><small>Background</small></h3>
+                <p>
+                  Addis Ababa, Eth <br />
+                  Johannesburg, SA <br />
+                  San Francisco, CA, US
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p>
+          My name is Senay Tilahun. I am currently pursuing a Master’s degree in
+          Computer Science at Northeastern University. I went to the University
+          of Notre Dame, du Lac, for my undergraduate studies where I received a
+          dual degree; a BS in Mechanical Engineering and a BA in Industrial
+          Design. After graduating, I was recruited into a two-year fellowship
+          program called Orr Fellowship, with a mission to recruit and develop
+          the next generation of business leaders and entrepreneurs. As part of
+          the fellowship, my main responsibility was my full-time position as a
+          Product Manager at a publicly traded company, Angi (formerly Angie’s
+          List). During my time as a PM, I established and managed a product
+          growth team (a team with 5 engineers) to optimize conversion rates of
+          business KPIs, and after three years of working closely with amazing
+          engineers, I saw the true impact of having deep technical knowledge. I
+          also noticed the lack of that knowledge as a weakness in my toolbox to
+          make a transformational impact on society. I decided that I need a
+          more fundamental understanding of computer science and my goal is that
+          with a master’s degree I will build the skills, network, and
+          confidence needed for a bigger impact.
+        </p>
+      </div>
+    </section>
+    <!-- About Section end -->
+
+    <!-- footer section  -->
+    <footer>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Senay Tilahun</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <a class="navbar-brand" href="./#">Home</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ms-auto">
-              <a class="nav-link active px-lg-3" aria-current="page" href="#">About</a>
-              <a class="nav-link px-lg-3" href="#">Projects</a>
-              <a class="nav-link px-lg-3" href="#">Skills</a>
-              <a class="nav-link px-lg-3" href="#">Contact</a>
+              <a
+                class="nav-link active px-lg-3"
+                aria-current="page"
+                href="./about.html"
+                >About</a
+              >
+              <a class="nav-link px-lg-3" href="./#projects">Projects</a>
+              <a class="nav-link px-lg-3" href="./#skills">Skills</a>
+              <a class="nav-link px-lg-3" href="./#contact">Contact</a>
               <!-- <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
             </div>
           </div>
         </div>
       </nav>
-    <!-- header end -->
-    
-
-
-    <!-- About Setcion  -->
-    <section class="about py-5">
-        <div class="container py-5">
-            <h1>About Me </h1>
-            <div class="row py-5">
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h3><small>Experience</small></h3>
-                            <p> 3+ years <br> Product Management <br> + Development</p>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h3><small>Education</small></h3>
-                            <p> BA Industrial Design <br> BS Mechanical Engineering <br> MSCS (in progress)</p>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <h3><small>Background</small></h3>
-                            <p> Addis Ababa, Eth <br> Johannesburg, SA <br> San Francisco, CA, US</p>
-                        </div>
-                      </div>
-                </div>
-            </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio temporibus neque aut numquam similique eius dignissimos fugit id eaque excepturi, ex quas officiis recusandae molestias qui vitae quae debitis illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia vero neque quis distinctio commodi consequuntur sit, velit et corrupti nostrum incidunt animi perferendis odit repudiandae consequatur recusandae est. Consequatur, a?</p>
-        </div>
-    </section>
-    <!-- About Section end -->
-    
-
-
+    </footer>
+    <!-- footer section end -->
 
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

@@ -32,11 +32,11 @@ body {
 
 .main .bt1 {
     height: 55px;
-    width: 200px;
+    width: 250px;
     background-color: transparent;
     outline: none;
     font-weight: bold;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 
 .main .bt1:hover {
@@ -49,6 +49,46 @@ body {
     border-radius: 50%;
 }
 
-.about card {
-    border-radius: 50px;
+.about .card {
+    padding: 1.5rem;
+    flex: 1;
+    text-align: center;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+}
+
+.skills .card {
+    padding: 1.5rem;
+    flex: 1;
+    text-align: left;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+}
+
+.projects .card {
+    border: white;
+}
+
+.skill-container .icon {
+    margin-right: 10px;
+}
+
+.contact-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 0.5rem;
+    margin: 1rem;
+}
+
+.footer .navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 0.5rem;
+    margin: 1rem;
 }

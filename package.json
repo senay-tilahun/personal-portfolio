@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Senay Tilahun",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
 }

@@ -14,7 +14,7 @@ Skills
 
 
 # Demo
-You can visit the live website here: 
+You can visit the live website here: https://senay-tilahun.github.io/personal-portfolio/index.html
 
 
 # Installation

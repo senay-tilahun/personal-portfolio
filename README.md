@@ -35,6 +35,10 @@ Navigate to the project directory:
 
 Open the index.html file in your web browser to view the portfolio locally.
 
+## Design
+https://docs.google.com/document/d/1W0PtCM6PlgWTuvh4oQVtIqVEOYg_UXpG-MTwVBgH3v0/edit#heading=h.504rtufrtnb2
+
+
 
 ## Usage
 
